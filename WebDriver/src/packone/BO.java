@@ -26,6 +26,8 @@ public class BO {
 		driver.findElement(By.id("NAME")).clear();
 		driver.findElement(By.id("NAME")).sendKeys("abcdef");
 		driver.findElement(By.id("NAME")).clear();
+		driver.findElement(By.id("NAME")).sendKeys("Kishore");
+		driver.findElement(By.id("NAME")).sendKeys("Kishore");
 		
 		
 		
