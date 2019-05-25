@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25541" started-at="2019-05-25T05:01:50Z" finished-at="2019-05-25T05:02:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25541" started-at="2019-05-25T05:01:50Z" finished-at="2019-05-25T05:02:16Z">
+      <class name="testnggg.NewTest111">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testnggg.NewTest111@6a2bcfcb]" name="beforeMethod" is-config="true" duration-ms="16137" started-at="2019-05-25T10:31:50Z" finished-at="2019-05-25T10:32:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:testnggg.NewTest111@6a2bcfcb]" name="f" duration-ms="203" started-at="2019-05-25T10:32:06Z" data-provider="TestData1" finished-at="2019-05-25T10:32:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kishore1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcdef1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testnggg.NewTest111@6a2bcfcb]" name="afterMethod" is-config="true" duration-ms="16" started-at="2019-05-25T10:32:07Z" finished-at="2019-05-25T10:32:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testnggg.NewTest111@6a2bcfcb]" name="beforeMethod" is-config="true" duration-ms="8904" started-at="2019-05-25T10:32:07Z" finished-at="2019-05-25T10:32:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:testnggg.NewTest111@6a2bcfcb]" name="f" duration-ms="250" started-at="2019-05-25T10:32:15Z" data-provider="TestData1" finished-at="2019-05-25T10:32:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kishore2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcdef2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testnggg.NewTest111@6a2bcfcb]" name="afterMethod" is-config="true" duration-ms="16" started-at="2019-05-25T10:32:16Z" finished-at="2019-05-25T10:32:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testnggg.NewTest111 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
